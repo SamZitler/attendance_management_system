@@ -1,11 +1,5 @@
 ## Run Locally
 
-Clone the project
-
-```bash
-git clone https://github.com/Pulkit007/Attendance-Management-SQL.git
-```
-
 Go to the project directory
 
 ```bash
